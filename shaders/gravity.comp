@@ -45,7 +45,7 @@ void main()
         v.x=-v.x;
     }
 
-    //devant 
+    //avant 
      if(p.z < 0) {
         p.z= 0;
         v.z=-v.z;
